@@ -1,5 +1,6 @@
 {
   "projects": {
-    "staging": "node-server-testing-2574d"
+    "staging": "node-server-testing-2574d",
+    "default": "node-server-testing-2574d"
   }
 }
