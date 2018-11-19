@@ -12,6 +12,6 @@
   },
   "scripts": {
     "start": "nodemon",
-    "serve" : "nodemon --exec firebase serve --only functions" 
+    "serve": "nodemon --exec firebase serve --only functions"
   }
 }
